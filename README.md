@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [https://virgool.io/@TheSepehR](https://virgool.io/@TheSepehR)
 
-- 💬 Ask me about **Flutter & Games**
+- 💬 Ask me about **Development & Games**
 
 - 📫 How to reach me **theseyedwork@gmail.com**
 
