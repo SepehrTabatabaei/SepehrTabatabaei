@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **My own project and Business**
 
-- 🌱 I’m currently learning **Mobile Development Flutter**
+- 🌱 I’m currently learning **Web Development **
 
-- 📝 I regularly write articles on [https://virgool.io/@TheSepehR](https://virgool.io/@TheSepehR)
+- 📝 I regularly write articles on [https://virgool.io/@TheSepehR](https:/virgool.io/@TheSepehR)
 
 - 💬 Ask me about **Development & Games**
 
